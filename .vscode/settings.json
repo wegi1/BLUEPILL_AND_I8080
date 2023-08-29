@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "arduino.h": "c",
+        "demos.h": "c",
+        "ili9341.h": "c",
+        "random": "c",
+        "table_data.h": "c",
+        "multable.h": "c",
+        "_f103_vectordots_lib.h": "c"
+    }
+}
